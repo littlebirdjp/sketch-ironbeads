@@ -14,5 +14,6 @@ A template for Hama Beads "[Small Square](http://www.hamabeads.com/small-square-
 
 ハマビーズの「[ボードS 正方形](http://www.bornelund.co.jp/ec/detail.php?category2=900075&id=4535)」用のテンプレートです。
 
-- [Sketch File](blob/master/hamabeads_square_s.sketch)
-- [PDF File](blob/master/hamabeads_square_s.pdf)
+- [PDF File for print](hamabeads_square_s.pdf)
+
+![](hamabeads_square_s.png?raw=true)
